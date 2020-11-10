@@ -1,0 +1,30 @@
+_repo: Within-the-Pale-The-True-Story-of-Anti-Semitic-Persecution-in-Russia_63588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davitt, Michael
+    birthdate: 1846
+    deathdate: 1906
+    gutenberg_agent_id: '52509'
+    url: http://www.gutenberg.org/2009/agents/52509
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Davitt
+description: ''
+gutenberg_issued: '2020-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63588'
+  lccn: '2011658563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Persecutions -- Moldova -- Chisinau'
+- !lcsh 'Antisemitism -- Russia'
+- !lcsh 'Kishinev Massacre, Chisinau, Moldova, 1903'
+- !lcsh 'Massacres -- Moldova -- Chisinau'
+- !lcsh 'Jews -- Russia'
+- !lcc 'DS'
+- GITenberg
+title: 'Within the Pale: The True Story of Anti-Semitic Persecution in Russia'
+url: http://www.gutenberg.org/ebooks/63588
